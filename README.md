@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <img src="images/perceptron_2.PNG">
-  The final hyperplane for linearly separable data.
+  <p align="center">The final hyperplane for linearly separable data.</p>
 </p>
 
 Adding [2,0] with label -1 to the data points makes the dataset not-linearly separable. In this case, the algorithm will run for 100 iterations before showing the resulting hyperplane for non-separable datapoints and printing- 
