@@ -12,7 +12,6 @@
 </p>
 <p align="center">
   <img src="images/perceptron_2.PNG">
-
   The final hyperplane for linearly separable data.
 </p>
 
